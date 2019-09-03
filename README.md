@@ -10,6 +10,7 @@
 #### '.' = an empty space
 ### Move a car from one spot to another count as only 1 move
 ## Algorithm Analysis
-### 
+### ![](https://github.com/nickee1942/Rush-Hour-Puzzle-Game-Solver/blob/master/Image/RelationReduced%26shortest.png) 
+![](https://github.com/nickee1942/Rush-Hour-Puzzle-Game-Solver/blob/master/Image/WholeVSreduced.png)
 
 

@@ -2,7 +2,7 @@
 ##  Instructions
 ### ![](https://github.com/nickee1942/Rush-Hour-Puzzle-Game-Solver/blob/master/Image/map.png)  ![](https://github.com/nickee1942/Rush-Hour-Puzzle-Game-Solver/blob/master/Image/string.jpg)
 #### ---Translate map to string to get shortest path solution---
-#### *'XX' = your car
+#### * 'XX' = your car
 #### *'22' = a car horizontally
 #### *'BB' = a car of the same size vertically
 #### *'CCC' = a truck vertically

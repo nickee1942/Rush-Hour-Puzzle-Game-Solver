@@ -15,5 +15,9 @@
 * The shortest path (steps) is not related to how complicated the map is
 ### ![](https://github.com/nickee1942/Rush-Hour-Puzzle-Game-Solver/blob/master/Image/RelationReduced%26shortest.png) 
 ![](https://github.com/nickee1942/Rush-Hour-Puzzle-Game-Solver/blob/master/Image/WholeVSreduced.png)
-
+## More Readings
+#### Michael Fogleman  
+* https://www.michaelfogleman.com/#rush
+#### The Complexity of Sliding-Block Puzzles and Plank Puzzles - Robert A. Hearn
+* http://groups.csail.mit.edu/mac/users/bob/sliding-blocks.pdf 
 
